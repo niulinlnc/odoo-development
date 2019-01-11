@@ -1,4 +1,4 @@
-First steps
+第一步
 ===========
 
 * :doc:`Install odoo <../admin/install>`
