@@ -1,26 +1,26 @@
 Odoo 开发
 ================
 
-Join our telegram group: https://t.me/odoo_talks
+加入我们的telegram组: https://t.me/odoo_talks
 
 .. toctree::
    :maxdepth: 2
 
-   first-steps
-   dev/index
-   debugging/index
-   qa/index
-   migration/index
-   description/index
-   git/index
-   ci/index
-   odoo/index
-   admin/index
-   cd/index
-   maintenance/index
-   ide/index
-   remote-dev/index
-   other/index
+   第一步
+   开发/index
+   调试/index
+   QA/index
+   升迁/index
+   描述/index
+   GIT/index
+   CI/index
+   Odoo/index
+   系统管理员/index
+   CD/index
+   维护/index
+   IDE/index
+   远程调试/index
+   其他/index
 
 .. admonition:: Need our service?
    :class: warning
