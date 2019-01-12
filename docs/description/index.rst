@@ -1,4 +1,4 @@
-User documentation
+用户文档
 ==================
 
 .. toctree::
