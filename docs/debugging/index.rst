@@ -1,5 +1,5 @@
 ===========
- Debugging
+ 调试
 ===========
 
 This section describes how to find the reason of existing problem.

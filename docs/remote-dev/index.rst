@@ -1,5 +1,5 @@
 ====================
- Remote Development
+ 远程开发
 ====================
 
 The section contains instructions to setup remote development environment. That is developer runs odoo and probably other tools on remote server rather on his machine. Advantages of this approach are:

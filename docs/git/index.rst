@@ -1,4 +1,4 @@
-Git and Github
+Git 与 Github
 ==============
 
 .. toctree::

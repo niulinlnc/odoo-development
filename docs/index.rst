@@ -1,4 +1,4 @@
-Odoo development
+Odoo 开发指南
 ================
 
 Join our telegram group: https://t.me/odoo_talks

@@ -1,4 +1,4 @@
-Odoo administration
+Odoo 系统管理
 ===================
 
 Official docs:
